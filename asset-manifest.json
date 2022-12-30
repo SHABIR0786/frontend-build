@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64de71c3.chunk.css",
+    "main.js": "/static/js/main.1936c395.chunk.js",
+    "main.js.map": "/static/js/main.1936c395.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2539fc1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2539fc1.js.map",
+    "static/css/2.ad19e07a.chunk.css": "/static/css/2.ad19e07a.chunk.css",
+    "static/js/2.5a188536.chunk.js": "/static/js/2.5a188536.chunk.js",
+    "static/js/2.5a188536.chunk.js.map": "/static/js/2.5a188536.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ad19e07a.chunk.css.map": "/static/css/2.ad19e07a.chunk.css.map",
+    "static/css/main.64de71c3.chunk.css.map": "/static/css/main.64de71c3.chunk.css.map",
+    "static/js/2.5a188536.chunk.js.LICENSE.txt": "/static/js/2.5a188536.chunk.js.LICENSE.txt",
+    "static/media/ForgotPasswordImage.23f397c0.png": "/static/media/ForgotPasswordImage.23f397c0.png",
+    "static/media/Lato-Black.f03c3fca.ttf": "/static/media/Lato-Black.f03c3fca.ttf",
+    "static/media/App.scss": "/static/media/Lato-Regular.80c07943.ttf",
+    "static/media/login.scss": "/static/media/Private City Tour_Slider 2 1.88dbd272.png",
+    "static/media/Untitled-2.9cfd8fcd.png": "/static/media/Untitled-2.9cfd8fcd.png",
+    "static/media/addstop.1e9e96f1.svg": "/static/media/addstop.1e9e96f1.svg",
+    "static/media/airplane.fb5d962a.svg": "/static/media/airplane.fb5d962a.svg",
+    "static/media/dashboard.scss": "/static/media/background.95ce5749.png",
+    "static/media/dropoff.4b2750af.svg": "/static/media/dropoff.4b2750af.svg",
+    "static/media/edit-2.b487d0bb.svg": "/static/media/edit-2.b487d0bb.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.5fde86e3.cjs",
+    "static/media/landmark.0890247e.svg": "/static/media/landmark.0890247e.svg",
+    "static/media/location-black.78618893.svg": "/static/media/location-black.78618893.svg",
+    "static/media/Home.scss": "/static/media/stop.c390b228.svg",
+    "static/media/pickup.cca0de91.svg": "/static/media/pickup.cca0de91.svg",
+    "static/media/search-normal.f02db3f4.svg": "/static/media/search-normal.f02db3f4.svg",
+    "static/media/select_vehicle.scss": "/static/media/selected.e753d310.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2539fc1.js",
+    "static/css/2.ad19e07a.chunk.css",
+    "static/js/2.5a188536.chunk.js",
+    "static/css/main.64de71c3.chunk.css",
+    "static/js/main.1936c395.chunk.js"
+  ]
+}
